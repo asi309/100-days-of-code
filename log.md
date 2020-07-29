@@ -30,3 +30,12 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
+
+### Day 1: July 29, 2020
+
+**Today's Progress**: Started new project for learning ReactJS.
+
+**Thoughts**: Setting up webpack and project structure manually is really a struggle! Maybe that's why they created js scripts to automatically setup. But I guess I should get an understanding of how things work for a start.
+
+**Link(s) to work**
+1. [Make a random quote displaying webpage](https://github.com/asi309/random-quotes-machine)
