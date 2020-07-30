@@ -39,3 +39,13 @@
 
 **Link(s) to work**
 1. [Make a random quote displaying webpage](https://github.com/asi309/random-quotes-machine)
+
+
+### Day 2: July 30, 2020
+
+**Today's Progress**: Finished first project with ReactJS
+
+**Thoughts**: Need to learn more about states and props in React. Although the concepts seem fairly easy. I tend to take up a lot of time in styling the apps. Need to learn CSS and be better at it.
+
+**Link(s) to work**
+1. [Make a random quote displaying webpage](https://github.com/asi309/random-quotes-machine)
