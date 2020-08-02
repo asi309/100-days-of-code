@@ -26,3 +26,13 @@
 
 **Link(s) to work**
 *Unfortunately, the freeCodeCamp links were updated and now represent blank pages*
+
+
+### Day 4: August 2, 2020
+
+**Today's Progress**: Another day with vanilla JS. Started learning nodeJs as well
+
+**Thoughts**: Learning JS is proving quite difficult at times. But I can feel the potential of vanilla JS. Let's go ahead and learn everything there is to it!
+
+**Link(s) to work**:
+1. [KeyCode Detector](https://github.com/asi309/keyCode-Detector)
