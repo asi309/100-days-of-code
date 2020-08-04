@@ -36,3 +36,14 @@
 
 **Link(s) to work**:
 1. [KeyCode Detector](https://github.com/asi309/keyCode-Detector)
+
+
+### Day 5: August 4, 2020
+
+**Today's Progress**: A fun day with vanilla JS. Started 2 new projects for both JS and ReactJS
+
+**Thoughts**: I am enjoying this process of learning by doing. Still have a lot to learn, especially in setting up environment for ReactJS. (or) maybe start using libraries like start-react-app and nextjs
+
+**Link(s) to work**:
+1. [Blogger](https://github.com/asi309/Blogger)
+2. [Calculator](https://github.com/asi309/Calculator)
