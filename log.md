@@ -47,3 +47,13 @@
 **Link(s) to work**:
 1. [Blogger](https://github.com/asi309/Blogger)
 2. [Calculator](https://github.com/asi309/Calculator)
+
+
+### Day 6: August 5, 2020
+
+**Today's Progress**: Another day learning the fundamentals of JS and also practicing ReactJS.
+
+**Thoughts**: Web Development is fun!
+
+**Link(s) to work**:
+1. [Calculator](https://github.com/asi309/Calculator)
