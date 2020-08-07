@@ -57,3 +57,13 @@
 
 **Link(s) to work**:
 1. [Calculator](https://github.com/asi309/Calculator)
+
+
+### Day 7: August 6, 2020
+
+**Today's Progress**: A lot of work on the blogger app I have been creating over the last few days, learning Routers in ReactJS. Also learning about prototype objects and prototype attributes in vanilla JS.
+
+**Thoughts**: The more I learn, the less it seems every day. Keeping this repo updated is proving a challenge as of now. ;-)
+
+**Link(s) to work**:
+1. [Blogger](https://github.com/asi309/Blogger)
