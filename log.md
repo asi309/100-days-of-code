@@ -67,3 +67,12 @@
 
 **Link(s) to work**:
 1. [Blogger](https://github.com/asi309/Blogger)
+
+
+### Day 8: August 8, 2020
+
+**Today's Progress**: Learning node JS by creating apps and APIs.
+
+**Link(s) to work**:
+1. [Blogger](https://github.com/asi309/Blogger)
+2. [Sports Management](https://github.com/asi309/sports-app)
