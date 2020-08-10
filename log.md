@@ -76,3 +76,11 @@
 **Link(s) to work**:
 1. [Blogger](https://github.com/asi309/Blogger)
 2. [Sports Management](https://github.com/asi309/sports-app)
+
+
+### Day 9: August 9, 2020
+
+**Today's Progress**: Learning Node JS
+
+**Link(s) to work**:
+1. [Sports Management](https://github.com/asi309/sports-app)
