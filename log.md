@@ -95,3 +95,12 @@
 **Link(s) to work**:
 1. [Sports Management](https://github.com/asi309/sports-app)
 2. [Todos App](https://github.com/asi309/todo-app)
+
+
+### Day 11: August 11, 2020
+
+**Today's Progress**: Learning Express API using NodeJS
+
+**Link(s) to work**:
+1. [Sports Management](https://github.com/asi309/sports-app)
+2. [Todos App](https://github.com/asi309/todo-app)
