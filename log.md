@@ -84,3 +84,14 @@
 
 **Link(s) to work**:
 1. [Sports Management](https://github.com/asi309/sports-app)
+
+
+### Day 10: August 10, 2020
+
+**Today's Progress**: Learning NodeJS and creating APIs using express
+
+**Thoughts**: Learning to create APIs using express, using the JS language for fullstack development. Started working on a todos app to get a lay of basic REST API design.
+
+**Link(s) to work**:
+1. [Sports Management](https://github.com/asi309/sports-app)
+2. [Todos App](https://github.com/asi309/todo-app)
