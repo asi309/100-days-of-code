@@ -104,3 +104,14 @@
 **Link(s) to work**:
 1. [Sports Management](https://github.com/asi309/sports-app)
 2. [Todos App](https://github.com/asi309/todo-app)
+
+
+### Day 12: August 12, 2020
+
+**Today's Progress**: Learning to integrate frontend with backend, using different development servers and connecting using axios.
+
+**Thoughts**: Need to learn about user authentication and sessions. Probably using JWT Tokens for now will work
+
+**Link(s) to work**:
+1. [Sports Management](https://github.com/asi309/sports-app)
+2. [Todos App](https://github.com/asi309/todo-app)
