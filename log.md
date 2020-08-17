@@ -115,3 +115,37 @@
 **Link(s) to work**:
 1. [Sports Management](https://github.com/asi309/sports-app)
 2. [Todos App](https://github.com/asi309/todo-app)
+
+
+### Day 13: August 13, 2020
+
+**Today's Progress**: Created and styled frontend page for adding sports events
+
+**Link(s) to work**:
+1. [Sports Management](https://github.com/asi309/sports-app)
+
+
+### Day 14: August 14, 2020
+
+**Today's Progress**: Styling common elements such as spacing and common button styles using the React App.css
+
+**Thoughts**: Learnt new ways to style the common parts of a react app.
+
+**Link(s) to work**:
+1. [Sports Management](https://githu.com/asi309/sports-app)
+
+
+### Day 15: August 15, 2020
+
+**Today's Progress**: Completed styling the v1 of the app
+
+**Link(s) to work**:
+1. [Sports Management](https://github.com/asi309/sports-app)
+
+
+### Day 16: August 17, 2020
+
+**Today's Progress**: Completed creating Dashboard page of the app
+
+**Link(s) to work**:
+1. [Sports Management](https://github.com/asi309/sports-app)
