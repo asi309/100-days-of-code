@@ -149,3 +149,11 @@
 
 **Link(s) to work**:
 1. [Sports Management](https://github.com/asi309/sports-app)
+
+
+### Day 17: August 18, 2020
+
+**Today's Progress**: Added user-specific functionality and made the app more good looking.
+
+**Link(s) to work**:
+1. [Sports Management](https://github.com/asi309/sports-app)
