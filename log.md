@@ -157,3 +157,13 @@
 
 **Link(s) to work**:
 1. [Sports Management](https://github.com/asi309/sports-app)
+
+
+### Day 18: August 20, 2020
+
+**Today's Progress**: Started learning web sockets for real time communication between clients and server. Implemented web sockets in the sports management app for sending notifications to the owner of an event about request to join event by another user.
+
+**Thoughts**: Learn more about in-memory databases and how to push notifications to the user.
+
+**Link(s) to work**:
+1. [Sports Management](https://github.com/asi309/sports-app)
