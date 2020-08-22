@@ -167,3 +167,20 @@
 
 **Link(s) to work**:
 1. [Sports Management](https://github.com/asi309/sports-app)
+
+
+### Day 19: August 21, 2020
+
+**Today's Progress**: Started learning about React context api and context trees.
+
+**Thoughts**: Contexts are a cool way to store user preferences for stuff like themes, fonts, etc. However, be cautious about using context everywhere as it will make the app inefficient
+
+**Link(s) to work**:
+1. [Sports Management](https://github.com/asi309/sports-app)
+
+### Day 20: August 22, 2020
+
+**Today's Progress**: Added the Registration action page and view registration pages. Also worked on deployment and using aws for storage.
+
+**Link(s) to work**:
+1. [Sports Management](https://github.com/asi309/sports-app)
