@@ -184,3 +184,19 @@
 
 **Link(s) to work**:
 1. [Sports Management](https://github.com/asi309/sports-app)
+
+
+### Day 21: August 24, 2020
+
+**Today's Progress**: Added Login and Registration pages in todos-app. Practicing mern stack.
+
+**Link(s) to work**:
+1. [Todo App](https://github.com/asi309/todo-app)
+
+
+### Day 22: August 25, 2020
+
+**Today's Progress**: Learnt hooks in React and building custom hooks. Also changed the backend logic of registration to include validation
+
+**Link(s) to work**:
+1. [Todo App](https://github.com/asi309/todo-app)
