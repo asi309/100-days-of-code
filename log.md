@@ -200,3 +200,13 @@
 
 **Link(s) to work**:
 1. [Todo App](https://github.com/asi309/todo-app)
+
+
+### Day 23: September 23, 2020
+
+**Today's Progress**: Added Graphql in place of rest-api for a demo message-app.
+
+**Thoughts**: Graphql is an amazing query language, especially with the flexibility it provides. I will continue to learn more about this in the coming days, maybe in the next 100 days.
+
+**Link(s) to work**:
+1. [Message App](https://github.com/asi309/message-app-graphql)
