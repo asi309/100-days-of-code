@@ -210,3 +210,11 @@
 
 **Link(s) to work**:
 1. [Message App](https://github.com/asi309/message-app-graphql)
+
+
+### Day 24: September 24, 2020
+
+**Today's Progress**: Started adding graphql to a previously made REST-API
+
+**Link(s) to work**:
+1. [Sports App](https://github.com/asi309/sports-app-graphql-demo)
