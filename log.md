@@ -218,3 +218,11 @@
 
 **Link(s) to work**:
 1. [Sports App](https://github.com/asi309/sports-app-graphql-demo)
+
+
+### Day 25: September 25, 2020
+
+**Today's Progress**: Code refactoring and new component addition for Open Source Projects. Setup a new Restaurant finder project for frontend using React.
+
+**Link(s) to work**:
+1. [Restaurant Finder](https://github.com/asi309/restaurant-search)
