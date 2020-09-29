@@ -226,3 +226,13 @@
 
 **Link(s) to work**:
 1. [Restaurant Finder](https://github.com/asi309/restaurant-search)
+
+
+### Day 26: September 28, 2020
+
+**Today's Progress**: Completed version 1 of the restaurant search app.
+
+**Thoughts**: The hackerearth API causes CORS issues. Need to change it using any other API for v2. Also the hooks implementation of react-redux is literally amazing!!
+
+**Link(s) to work**
+1. [Restaurant Finder](https://github.com/asi309/restaurant-search)
