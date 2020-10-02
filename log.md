@@ -249,3 +249,11 @@
 
 **Link(s) to work**
 1. [Todo App](https://github.com/asi309/todo-app)
+
+
+### Day 29: October 2, 2020
+
+**Today's Progress**: Did style the app using css manually.
+
+**Link(s) to work**:
+1. [Todo App](https://github.com/asi309/todo-app)
