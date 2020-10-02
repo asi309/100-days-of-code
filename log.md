@@ -236,3 +236,16 @@
 
 **Link(s) to work**
 1. [Restaurant Finder](https://github.com/asi309/restaurant-search)
+
+
+### Day 27: September 30, 2020
+
+**Today's Progress**: Started working on Open Source contributions for Hacktoberfest,2020. Worked on a variety of projects in reactjs and nodejs.
+
+
+### Day 28: October 1, 2020
+
+**Today's Progress**: Almost finished working on the todo-app.
+
+**Link(s) to work**
+1. [Todo App](https://github.com/asi309/todo-app)
