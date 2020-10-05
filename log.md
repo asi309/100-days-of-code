@@ -257,3 +257,11 @@
 
 **Link(s) to work**:
 1. [Todo App](https://github.com/asi309/todo-app)
+
+
+### Day 30: October 4, 2020
+
+**Today's Progress**: Finished working on the todos app
+
+**Link(s) to work**
+1. [Todo App](https://github.com/asi309/todo-app)
