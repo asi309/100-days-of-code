@@ -265,3 +265,13 @@
 
 **Link(s) to work**
 1. [Todo App](https://github.com/asi309/todo-app)
+
+
+### Day 31: October 5, 2020
+
+**Today's Progress**: Finished working on youtube clone project.
+
+**Thoughts**: Consuming APIs using ReactJS and using react hooks for the app. Reached the daily limit of the free tier of the API, so next order of business is to style the app properly.
+
+**Link(s) to work**:
+1. [YouTube clone](https://github.com/asi309/youTube)
